@@ -11,7 +11,7 @@ Each book has its own folder or markdown file, containing:
 
 ## 🗂 Folder Structure
 
-For now I organize my reading into four categories: finance, individual developer & entrepreneur, security, and management.
+For now I organize my reading into four categories: finance, individual developer & entrepreneur, information security, and leadership.
 
 * [Finance](finance)
 * [Individual Developer & Entrepreneur](individual-developer)
