@@ -11,4 +11,10 @@ Each book has its own folder or markdown file, containing:
 
 ## 🗂 Folder Structure
 
-TBD
+For now I organize my reading into four categories: finance, individual developer & entrepreneur, security, and management.
+
+* [Finance](finance)
+* [Individual Developer & Entrepreneur](individual-developer)
+* [Information Security](security)
+* [Leadership](leadership)
+ 
